@@ -57,14 +57,14 @@ ___
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Aureliel007/Aureliel007/snake-output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Aureliel007/Aureliel007/snake-output/snake_dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Aureliel007/Aureliel007/snake-output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/Aureliel007/Aureliel007/snake-output/snake.svg"
   />
   <img
     alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/Aureliel007/Aureliel007/snake-output/github-snake.svg"
+    src="https://raw.githubusercontent.com/Aureliel007/Aureliel007/snake-output/snake_dark.svg"
   />
 </picture>
