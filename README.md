@@ -51,3 +51,20 @@
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Relief&pause=1000&color=8EC07C&width=435&lines=Learning+things;Building+things;Drawing+things)](https://git.io/typing-svg)
+
+___
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Aureliel007/Aureliel007/snake-output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Aureliel007/Aureliel007/snake-output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Aureliel007/Aureliel007/snake-output/github-snake.svg"
+  />
+</picture>
