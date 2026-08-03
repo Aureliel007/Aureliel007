@@ -2,7 +2,7 @@
 ---
 
 - 💻 Infrastructure Software Developer
-- 🧑‍💻 Automating things that can be automated, figuring out the rest
+- ⚙️ Automating things that can be automated, figuring out the rest
 - 🌱 Learning JavaScript & TypeScript
 - 🎨 Drawing, learning Italian for no particular reason
 - 🦆 Debugging with a rubber duck since 2023
