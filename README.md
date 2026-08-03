@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Relief&pause=1000&color=FABD30FF&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Natalia;Software+developer;Curiosity-driven)](https://git.io/typing-svg)
 ---
 
-- 💻 I'm a Software Developer
-- 🧑‍💻 Currently focused on infrastructure & automation
+- 💻 Infrastructure Software Developer
+- 🧑‍💻 Automating things that can be automated, figuring out the rest
 - 🌱 Learning JavaScript & TypeScript
 - 🎨 Drawing, learning Italian for no particular reason
 - 🦆 Debugging with a rubber duck since 2023
