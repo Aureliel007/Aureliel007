@@ -23,9 +23,6 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="40" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=bash" height="40" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=react" height="40" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab" height="40" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=confluence" height="40" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jira" height="40" />
 </div>
 
 ###
